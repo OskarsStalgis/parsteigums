@@ -1,0 +1,15 @@
+body{
+    
+}
+img{
+   overflow: 
+}
+
+section{
+    display: grid;
+    justify-content: center;
+}
+
+p{
+    display: block;
+}
